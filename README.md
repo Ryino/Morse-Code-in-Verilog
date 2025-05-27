@@ -9,3 +9,6 @@ A simple and efficient tool to encode text into Morse code. This project demonst
 - Ignores unsupported characters gracefully
 - Lightweight and easy to use
 
+## Files 
+  Constraint, verilog and test bench files have been added. Please use Vivado to run this project
+
